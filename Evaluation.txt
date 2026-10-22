@@ -1,0 +1,37 @@
+# Evaluation du cours
+
+### LI Ziheng Eric
+
+## Quels sujets vous ont le plus / le moins intéressé ?
+
+### -> Plus interessé
+###        Git c'était nouveau, mais très intéressant. Le fonctionnement de Numpy (mémoire, RAM) aussi même si c'est moins appliqué. Les disgression sur les alternatives (sidequest Polars) pas du cours à proprement parler mais l'opinion défendue en informatique est intéressante
+### -> Moins interessé
+###        Pandas, mais c'est pas personnel, ça ressemble juste un peu trop à SQL (ew)
+
+## Quelles séances vous ont le plus / le moins plu ?
+
+### -> Plus plu
+###.       La séance d'introduction à Gitbash, et la plupart des séances de Numpy, la moitié de la séance TP Gravitation était fantastique...
+### -> Moins plu
+###.       ... L'autre moitié du TP Gravitation (débuggage) était intankable
+
+## Y avait-il des choses en trop dans le cours ?
+
+### -> Nan (le peuple demande plus de disgressions sur la RAM)
+
+## A t il manqué des choses ?
+
+### -> plus de disgressions sur la RAM
+
+## Etait-ce trop rapide ? Trop lent ?
+
+### L'introduction à Pandas était un peu rapide, mais les autres séances allaient
+
+## D'autres remarques ?
+
+### le peuple demande plus de disgressions sur la RAM
+
+```python
+
+```
